@@ -1,0 +1,101 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.items>li {
+  padding: 20px;
+}
+.nav-link {
+  color: black;
+}
+
+
+.nav-item {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: grey;
+}
+
+.dropdown-menu {
+  background-color: black;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.hopbtn {
+  padding: 15px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.footerdiv {
+  align-items: center;
+  padding: 1px;
+  background: #000;
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 0%;
+}
+
+.text {
+  color: white;
+}
+
+.footp {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.buttondiv {
+  text-align: center;
+}
+
+.buttondiv>button{
+  margin-top: 20px;
+  padding: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+.whyusp1{
+  margin-top: 180px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.whyusp2 {
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.whyusp3 {
+  margin-top: 100px;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.fullservicep1 {
+  margin-top: 180px;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
