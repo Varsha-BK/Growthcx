@@ -13,7 +13,7 @@ const Navmenu = () => {
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="items navbar-nav mx-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="/whyus">Why us?</a>
+                            <a class="nav-link" aria-current="page" href="/">Why us?</a>
                         </li>
 
                         <li class="nav-item dropdown">
@@ -21,10 +21,10 @@ const Navmenu = () => {
                                 Our fixes
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="/fullservice">Full-Service</a></li>
-                                <li><a class="dropdown-item" href="/contentmarketing">Content Marketing</a></li>
-                                <li><a class="dropdown-item" href="/productmarketing">Product Marketing</a></li>
-                                <li><a class="dropdown-item" href="/fractionalcmo">Fractional CMO</a></li>
+                                <li><a class="dropdown-item" href="/">Full-Service</a></li>
+                                <li><a class="dropdown-item" href="/">Content Marketing</a></li>
+                                <li><a class="dropdown-item" href="/">Product Marketing</a></li>
+                                <li><a class="dropdown-item" href="/">Fractional CMO</a></li>
                             </ul>
                         </li>
 
@@ -41,8 +41,8 @@ const Navmenu = () => {
                                 Customers
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="/growthmarketing">Growth Marketing</a></li>
-                                <li><a class="dropdown-item" href="/webanddesign#">Web and Design</a></li>
+                                <li><a class="dropdown-item" href="/">Growth Marketing</a></li>
+                                <li><a class="dropdown-item" href="/">Web and Design</a></li>
                             </ul>
                         </li>
                     </ul>
